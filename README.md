@@ -1,8 +1,13 @@
 <h1>James Little's <a href="(https://www.linkedin.com/in/jamesblittle5/)"> IT and Cybersecurity Project Portfolio </a>☺</h1>
 
+
+
 # Cloud/InfoSec Projects
 
-# 💙 BLUE TEAM 💙 
+# 💜 Purple Team 💜
+
+
+# 💙 Blue Team 💙 
   
 - <b>⚠️ Vulnerability Management Projects</b>
   - [Vulnerability Management Program Implementation](https://github.com/jameslittle05/Vuln-Mgmt-Project)
