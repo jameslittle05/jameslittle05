@@ -1,13 +1,21 @@
-<h1>James Little's <a href="(https://www.linkedin.com/in/jamesblittle5/)"> IT and Cybersecurity Project Portfolio </a>☺</h1>
+<h1> Hello, world! My name James Little <a href="(https://www.linkedin.com/in/jamesblittle5/)"> 
+
+  ## 👨🏾‍💻 Cybersecurity Professional 👨🏾‍💻 
+
+Cybersecurity specialist with expertise in SIEM implementations, vulnerability management, threat detection, and identity & access management (IAM). I focus on securing user identities, enforcing least privilege, and mitigating risks through proactive security measures. Explore my projects to see how I enhance security operations and compliance!
+
+# ☁️Cloud/InfoSec Projects☁️
 
 
 
-# Cloud/InfoSec Projects
-
-# 💜 Purple Team 💜
 
 
-# 💙 Blue Team 💙 
+
+
+
+
+
+## 💙 Blue Team 💙 
   
 - <b>⚠️ Vulnerability Management Projects</b>
   - [Vulnerability Management Program Implementation](https://github.com/jameslittle05/Vuln-Mgmt-Project)
@@ -19,7 +27,7 @@
   - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
 
 
-# 💚Identity and Access Management💚
+## 💚Identity and Access Management💚
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
 
