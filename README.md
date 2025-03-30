@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1>James Little's <a href="(https://www.linkedin.com/in/jamesblittle5/)"> IT and Cybersecurity Project Portfolio </a>☺</h1>
 
-<!--
-**jameslittle05/jameslittle05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cloud/InfoSec Projects
 
-Here are some ideas to get you started:
+# 💙 BLUE TEAM 💙 
+  
+- <b>⚠️ Vulnerability Management Projects</b>
+  - [Vulnerability Management Program Implementation](https://github.com/jameslittle05/Vuln-Mgmt-Project)
+  - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jameslittle05/Prog-Vuln-Rem)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>STIG Implementations</b>
+  - [Implementation of STIG ID: WN10-AU-000500](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-AU-000500.PS1)
+  - [Implementation of STIG ID: WN10-AU-000005](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-CC-000005.PS1)
+  - [Implementation of STIG ID: WN10-CC-000370](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-CC-000370.PS1)
+  - [Implementation of STIG ID: WN10-AU-000505](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-AU-000505.PS1)
+  - [Implementation of STIG ID: WN10-CC-000205](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-CC-000205.PS1)
+  - [Implementation of STIG ID: WN10-CC-000326](https://github.com/jameslittle05/jameslittle05/blob/main/WN10-CC-000326.PS1)
+ 
+- <b>🚨 Threat Hunting and Security Operations</b>
+  - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/Threat-Hunt)
+  - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
+
+
+# 💚Identity and Access Management💚
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
+
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/Jamesblittle5
