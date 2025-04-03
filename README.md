@@ -27,7 +27,7 @@ Cybersecurity specialist with expertise in SIEM implementations, vulnerability m
   - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
 
 
-## 💚Identity and Access Management💚
+## 💚 Identity and Access Management 💚
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
 
