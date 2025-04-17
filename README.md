@@ -32,6 +32,10 @@ I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerab
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
 
 
+## 🖤 GRC 🖤 
+ - [Corporate Cybersecurity Policy Program Using NIST CSF 2.0](https://github.com/jameslittle05/Cybersecurity-Policy-Project-NIST)
+
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
