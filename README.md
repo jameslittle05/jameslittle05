@@ -2,7 +2,7 @@
 
   ## 👨🏾‍💻 Cybersecurity Professional 👨🏾‍💻 
 
-Cybersecurity specialist with expertise in SIEM implementations, vulnerability management, threat detection, and identity & access management (IAM). I focus on securing user identities, enforcing least privilege, and mitigating risks through proactive security measures. Explore my projects to see how I enhance security operations and compliance!
+I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerability management, threat detection, and identity & access management (IAM). I focus on securing user identities, enforcing least privilege, and mitigating risks through proactive security measures. Explore my projects to see how I enhance security operations and compliance!
 
 # ☁️Cloud/IAM Projects☁️
 
