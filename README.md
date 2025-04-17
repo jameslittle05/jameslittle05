@@ -4,7 +4,7 @@
 
 I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerability management, threat detection, and identity & access management (IAM). I focus on securing user identities, enforcing least privilege, and mitigating risks through proactive security measures. Explore my projects to see how I enhance security operations and compliance!
 
-# ☁️Cloud/IAM Projects☁️
+# ☁️Cybersecurity Projects☁️
 
 
 
@@ -25,6 +25,9 @@ I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerab
 - <b>🚨 Threat Hunting and Security Operations</b>
   - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/Threat-Hunt)
   - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
+
+## ❤️ Red Team ❤️
+
 
 
 ## 💚 Identity and Access Management 💚
