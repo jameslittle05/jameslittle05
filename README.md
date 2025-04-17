@@ -7,8 +7,7 @@ I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerab
 # ☁️Cybersecurity Projects☁️
 
 ## ❤️ Red Team ❤️
-- [Personal Pentesting Lab](https://github.com/jameslittle05/Pentesting-Lab/tree/main)
-
+- [Personal Ethical Hacking Playground](https://github.com/jameslittle05/Pentesting-Lab/tree/main) 🙂
 
 
 
