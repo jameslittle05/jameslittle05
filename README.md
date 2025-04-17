@@ -28,15 +28,14 @@ Explore my projects to see how I break, test, and secure systems to enhance real
   - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/Threat-Hunt)
   - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
 
-
-## 💚 Identity and Access Management 💚
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
-
-
 ## 🖤 GRC 🖤 
  - [Corporate Cybersecurity Policy Program Using NIST CSF 2.0](https://github.com/jameslittle05/Cybersecurity-Policy-Project-NIST)
  - [Check Fraud & Social Engineering](https://github.com/jameslittle05/Check-Fraud/tree/main)
+
+## 💚 IT Projects 💚
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
+
 
 ## 💻 Web Dev 💻 
 - [Coming Soon]
