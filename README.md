@@ -1,4 +1,4 @@
-<h1> Hello, world! My name James Little <a href="(https://www.linkedin.com/in/jamesblittle5/)"> 
+<h1> Hello, world! My name is James Little <a href="(https://www.linkedin.com/in/jamesblittle5/)"> 
 
   ## 👨🏾‍💻 Cybersecurity Professional 👨🏾‍💻 
 
@@ -30,7 +30,7 @@ Explore my projects to see how I break, test, and secure systems to enhance real
 
 ## 🖤 GRC 🖤 
  - [Corporate Cybersecurity Policy Program Using NIST CSF 2.0](https://github.com/jameslittle05/Cybersecurity-Policy-Project-NIST)
- - [Check Fraud & Social Engineering](https://github.com/jameslittle05/Check-Fraud/tree/main)
+ - [Check Fraud & Social Engineering "Simulation" ](https://github.com/jameslittle05/Check-Fraud/tree/main)
 
 ## 💚 IT Projects 💚
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
