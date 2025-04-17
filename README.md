@@ -2,7 +2,9 @@
 
   ## 👨🏾‍💻 Cybersecurity Professional 👨🏾‍💻 
 
-I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerability management, threat detection, and identity & access management (IAM). I focus on securing user identities, enforcing least privilege, and mitigating risks through proactive security measures. Explore my projects to see how I enhance security operations and compliance!
+I’m a cybersecurity professional with hands-on experience in both offensive (Red Team) and defensive (Blue Team) operations. My expertise spans ethical hacking, SIEM implementations, vulnerability management, threat detection, and identity & access management (IAM). I focus on securing systems through proactive risk mitigation, least privilege enforcement, and continuous security monitoring.
+
+Explore my projects to see how I break, test, and secure systems to enhance real-world cyber resilience!
 
 # ☁️Cybersecurity Projects☁️
 
@@ -34,6 +36,11 @@ I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerab
 
 ## 🖤 GRC 🖤 
  - [Corporate Cybersecurity Policy Program Using NIST CSF 2.0](https://github.com/jameslittle05/Cybersecurity-Policy-Project-NIST)
+ - [Check Fraud & Social Engineering](https://github.com/jameslittle05/Check-Fraud/tree/main)
+
+## 💻 Web Dev 💻 
+- [Coming Soon]
+
 
 
 <h2>🤳Connect with me:</h2>
