@@ -6,7 +6,8 @@ I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerab
 
 # ☁️Cybersecurity Projects☁️
 
-
+## ❤️ Red Team ❤️
+- [Personal Pentesting Lab](https://github.com/jameslittle05/Pentesting-Lab/tree/main)
 
 
 
@@ -25,9 +26,6 @@ I am a Cybersecurity specialist with expertise in SIEM implementations, vulnerab
 - <b>🚨 Threat Hunting and Security Operations</b>
   - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/Threat-Hunt)
   - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
-
-## ❤️ Red Team ❤️
-
 
 
 ## 💚 Identity and Access Management 💚
