@@ -12,6 +12,8 @@ Explore my projects to see how I break, test, and secure systems to enhance real
 - [Personal Ethical Hacking Playground](https://github.com/jameslittle05/Pentesting-Lab/tree/main) 🙂
 
 
+## 💻 Web Dev 💻 
+- [Coming Soon]
 
 
 
@@ -36,9 +38,6 @@ Explore my projects to see how I break, test, and secure systems to enhance real
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
 
-
-## 💻 Web Dev 💻 
-- [Coming Soon]
 
 
 
