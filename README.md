@@ -13,7 +13,7 @@ Explore my projects to see how I break, test, and secure systems to enhance real
 
 
 ## 💻 Web Dev 💻 
-- [Coming Soon]
+- [CyberEase](https://github.com/jameslittle05/WebDevProject1)
 
 
 
