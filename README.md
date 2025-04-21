@@ -10,7 +10,7 @@ Explore my projects to see how I break, test, and secure systems to enhance real
 
 ## ❤️ Red Team ❤️
 - [Personal Ethical Hacking Playground](https://github.com/jameslittle05/Pentesting-Lab/tree/main) 🙂
-- [Vulnerable Web Application Development & Penetration Testing]
+- [Vulnerable Web Application Development & Penetration Testing](https://github.com/jameslittle05/VulnDevPenTest/tree/main)
 
 
 ## 💻 Web Dev 💻 
