@@ -1,43 +1,44 @@
-<h1> Hello, world! My name is James Little <a href="(https://www.linkedin.com/in/jamesblittle5/)"> 
+# 👋 Hello, world! My name is James Little
+[LinkedIn Profile](https://www.linkedin.com/in/jamesblittle5/)
 
-  ## 👨🏾‍💻 Cybersecurity Professional 👨🏾‍💻 
+## 👨🏾‍💻 Cybersecurity Professional 👨🏾‍💻 
 
-I’m a cybersecurity professional with hands-on experience in both offensive (Red Team) and defensive (Blue Team) operations. My expertise spans ethical hacking, SIEM implementations, vulnerability management, threat detection, and identity & access management (IAM). I focus on securing systems through proactive risk mitigation, least privilege enforcement, and continuous security monitoring.
+I'm a cybersecurity professional with hands-on experience in both offensive (Red Team) and defensive (Blue Team) operations. My expertise includes ethical hacking, SIEM implementation, vulnerability management, threat detection, and identity & access management (IAM).  
+I focus on securing systems through proactive risk mitigation, least privilege enforcement, and continuous security monitoring.
 
-Explore my projects to see how I break, test, and secure systems to enhance real-world cyber resilience!
+Explore my projects below to see how I break, test, and secure systems to enhance real-world cyber resilience!
 
-# ☁️Cybersecurity Projects☁️
+# ☁️ Cybersecurity Projects ☁️
 
-## ❤️ Red Team ❤️
-- [Personal Ethical Hacking Playground](https://github.com/jameslittle05/Pentesting-Lab/tree/main) 🙂
-- [Vulnerable Web Application Development & Penetration Testing (SQL Injection)](https://github.com/jameslittle05/VulnDevPenTest/tree/main)
+## 🟣 Purple Team
+- [Full Enterprise Infrastructure Engineering with Splunk SIEM Integration, Attack Simulation, and Remediation (End-to-End Cybersecurity Lab)](https://github.com/jameslittle05/CybersecurityHomeLab)
 
+## ❤️ Red Team (Offensive Security)
+- [Personal Ethical Hacking Playground (Penetration Testing Lab)](https://github.com/jameslittle05/Pentesting-Lab/tree/main)
+- [Vulnerable Web App Development & SQL Injection Testing](https://github.com/jameslittle05/VulnDevPenTest/tree/main)
 
-## 💻 Web Dev 💻 
-- [CyberEase](https://github.com/jameslittle05/WebDevProject1)
+## 💙 Blue Team (Defensive Security)
 
-
-
-
-
-## 💙 Blue Team 💙 
+- **⚡ Vulnerability Management**
+  - [Building a Vulnerability Management Program](https://github.com/jameslittle05/Vuln-Mgmt-Project)
+  - [Automated Vulnerability Remediation Scripts (PowerShell & BASH)](https://github.com/jameslittle05/Prog-Vuln-Rem)
+  - [Security Hardening via STIGs (15+ Implemented)](https://github.com/jameslittle05/Stigs)
   
-- <b>⚠️ Vulnerability Management Projects</b>
-  - [Vulnerability Management Program Implementation](https://github.com/jameslittle05/Vuln-Mgmt-Project)
-  - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jameslittle05/Prog-Vuln-Rem)
-  - [Implementation of 15+ STIGs](https://github.com/jameslittle05/Stigs)
- 
-- <b>🚨 Threat Hunting and Security Operations</b>
-  - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameslittle05/Threat-Hunt)
-  - [Threat Hunting Scenario (Unauthorized VPN Usage)](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
+- **🔎 Threat Hunting & Security Operations**
+  - [Threat Hunting: Detecting Tor Browser Activity](https://github.com/jameslittle05/Threat-Hunt)
+  - [Threat Hunting: Identifying Unauthorized VPN Usage](https://github.com/jameslittle05/ThreatHunts/blob/main/README.md)
 
-## 🖤 GRC 🖤 
- - [Corporate Cybersecurity Policy Program Using NIST CSF 2.0](https://github.com/jameslittle05/Cybersecurity-Policy-Project-NIST)
- - [Check Fraud & Social Engineering "Simulation" ](https://github.com/jameslittle05/Check-Fraud/tree/main)
+## 🖤 GRC (Governance, Risk, and Compliance)
+- [Corporate Cybersecurity Policy based on NIST CSF 2.0](https://github.com/jameslittle05/Cybersecurity-Policy-Project-NIST)
+- [Check Fraud & Social Engineering Attack Simulation](https://github.com/jameslittle05/Check-Fraud/tree/main)
 
-## 💚 IT Projects 💚
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jameslittle05/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jameslittle05/azure-network-protocols)
+## 💻 Web Development
+- [CyberEase: Web Application Project](https://github.com/jameslittle05/WebDevProject1)
+
+## 💚 IT Projects
+- [Configuring On-Premises Active Directory in Azure VMs](https://github.com/jameslittle05/configure-ad)
+- [Network Security Groups (NSG) and Protocol Inspection in Azure](https://github.com/jameslittle05/azure-network-protocols)
+
 
 
 
