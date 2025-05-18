@@ -30,7 +30,6 @@ Explore my projects below to see how I break, test, and secure systems to enhanc
 
 ## 🖤 GRC (Governance, Risk, and Compliance)
 - [Corporate Cybersecurity Policy based on NIST CSF 2.0](https://github.com/jameslittle05/Cybersecurity-Policy-Project-NIST)
-- [Check Fraud & Social Engineering Attack Simulation](https://github.com/jameslittle05/Check-Fraud/tree/main)
 
 ## 💻 Web Development
 - [CyberEase: Web Application Project](https://github.com/jameslittle05/WebDevProject1)
