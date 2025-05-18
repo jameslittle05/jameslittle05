@@ -35,9 +35,6 @@ Explore my projects below to see how I break, test, and secure systems to enhanc
 ## 💻 Web Development
 - [CyberEase: Web Application Project](https://github.com/jameslittle05/WebDevProject1)
 
-## 💚 IT Projects
-- [Configuring On-Premises Active Directory in Azure VMs](https://github.com/jameslittle05/configure-ad)
-- [Network Security Groups (NSG) and Protocol Inspection in Azure](https://github.com/jameslittle05/azure-network-protocols)
 
 
 
