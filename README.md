@@ -13,15 +13,9 @@ Explore my projects below to see how I break, test, and secure systems to enhanc
 ## 🟣 Purple Team
 - [Full Enterprise Infrastructure Engineering with Splunk SIEM Integration, Attack Simulation, and Remediation (End-to-End Cybersecurity Lab)](https://github.com/jameslittle05/CybersecurityHomeLab)
 
-## ❤️ Red Team (Offensive Security)
-- [Personal Ethical Hacking Playground (Penetration Testing Lab)](https://github.com/jameslittle05/Pentesting-Lab/tree/main)
-- [Vulnerable Web App Development & SQL Injection Testing](https://github.com/jameslittle05/VulnDevPenTest/tree/main)
-
 ## 💙 Blue Team (Defensive Security)
 
 - **⚡ Vulnerability Management**
-  - [Building a Vulnerability Management Program](https://github.com/jameslittle05/Vuln-Mgmt-Project)
-  - [Automated Vulnerability Remediation Scripts (PowerShell & BASH)](https://github.com/jameslittle05/Prog-Vuln-Rem)
   - [Security Hardening via STIGs (15+ Implemented)](https://github.com/jameslittle05/Stigs)
   
 - **🔎 Threat Hunting & Security Operations**
